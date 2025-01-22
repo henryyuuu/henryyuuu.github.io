@@ -5,7 +5,7 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "info.fake.foundi.app",
+      "package_name": "info.foundi.app",
       "sha256_cert_fingerprints": [
         "F1:17:6A:0F:6B:0E:EA:34:52:F0:F0:84:C8:D4:5E:E5:89:95:5A:1E:9D:B4:97:19:1F:27:67:51:28:95:7E:C4",
         "78:63:DD:C5:E2:BF:C7:D5:1D:65:4B:E3:49:FF:97:4B:6D:BA:DC:E1:04:80:19:65:3A:97:0D:A1:84:53:F1:45",
