@@ -7,10 +7,7 @@
       "namespace": "android_app",
       "package_name": "info.foundi.app",
       "sha256_cert_fingerprints": [
-        "F1:17:6A:0F:6B:0E:EA:34:52:F0:F0:84:C8:D4:5E:E5:89:95:5A:1E:9D:B4:97:19:1F:27:67:51:28:95:7E:C4",
-        "78:63:DD:C5:E2:BF:C7:D5:1D:65:4B:E3:49:FF:97:4B:6D:BA:DC:E1:04:80:19:65:3A:97:0D:A1:84:53:F1:45",
-        "2F:06:2F:3A:DC:9C:76:F1:8E:F8:B1:CA:21:DF:22:06:CB:34:1B:A4:8D:C2:D1:C2:22:BA:05:F9:9D:41:9A:00",
-        "94:08:62:64:B8:34:BB:E8:1F:BD:BC:8E:1F:A9:E8:6D:58:07:ED:D6:BA:1C:99:28:9C:15:9C:37:B4:E8:AF:4F"
+        "78:63:DD:C5:E2:BF:C7:D5:1D:65:4B:E3:49:FF:97:4B:6D:BA:DC:E1:04:80:19:65:3A:97:0D:A1:84:53:F1:45"
       ]
     }
   }
